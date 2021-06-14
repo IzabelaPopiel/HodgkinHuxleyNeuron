@@ -19,6 +19,8 @@ The application creates charts of
 
 ![image](https://user-images.githubusercontent.com/44273512/121695848-c065c900-cacb-11eb-9bb1-09e47211519a.png)
 
+Additional use cases with a description in Polish can be found in the pdf file [report.pdf](https://github.com/IzabelaPopiel/HodgkinHuxleyNeuron/blob/master/report.pdf).
+
 ## Technologies
 Project is created with:
 * Java 11
