@@ -6,6 +6,7 @@ Project prepared as part of the university course "Numerical methods" in collabo
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Launch](#launch)
 
 ## General info
 This project is simulation of how action potentials in neurons are initiated and propagated basing on [Hodgkin–Huxley model](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model). Electrical characteristics of neurons are approximated by set of nonlinear differential equations.
@@ -26,3 +27,8 @@ Project is created with:
 * Java 11
 * JavaFx 11.0.2
 * Apache Commons Math 3.6.1
+
+## Launch
+To run this project, use gradle:
+HodgkinHuxleyNeuron -> Tasks -> application -> run
+![image](https://user-images.githubusercontent.com/44273512/121845624-05654780-cce6-11eb-8761-de4abf1dc8d7.png)
